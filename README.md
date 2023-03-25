@@ -1,2 +1,2 @@
 # hmis-repo01
-Repositorio para la asignatura de HMIS.
+:bomb: Repositorio para la asignatura de HMIS.
